@@ -1,0 +1,31 @@
+body {
+  background-color: #a5ffdb;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60ox;
+    text-align: center;
+    color: #000000;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40ox;
+    text-align:
+    color: #000000;
+}
+
+a {
+    color: #b86ffc;
+}
+a:visited {
+    color: #b86ffc;
+}
+a:hover {
+    color: #ffc6dc;
+}
+
+a:active {
+    color: #e2cba5;
+}
